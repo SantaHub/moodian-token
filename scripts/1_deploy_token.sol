@@ -7,4 +7,4 @@ initial_supply = Web3.toWei(1000, "ether")
 def main():
     accout = get_account()
     mdn_token= MDNToken
-    print("Deployed")
+
