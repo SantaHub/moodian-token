@@ -6,3 +6,5 @@
 ```
 bronwie compile
 ```
+
+## Deploy the token using

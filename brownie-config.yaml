@@ -8,3 +8,10 @@ compiler:
 dotenv: .env
 wallets:
   from_key: ${PRIVATE_KEY}
+
+networks:
+  default: development
+  development:
+    gas_limit: max
+    gas_buffer: 1
+    gas_price: 0
