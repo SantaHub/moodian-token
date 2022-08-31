@@ -7,7 +7,9 @@ LOCAL_BLOCKCHAIN_ENVIRONMENTS = [
     "local-ganache",
     "mainnet-fork",
 ]
+# 0xBD033240B65134afE70C2640E1009718A611EbE0
 
+# 0x66aB6D9362d4F35596279692F0251Db635165871
 
 def get_account(index=None, id=None):
     if index:
