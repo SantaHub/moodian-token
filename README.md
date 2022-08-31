@@ -45,3 +45,7 @@ Transaction sent: 0xdfb1e9be490e55822164e23a7f0eb3ec04144a4528f3467a868297ac2a4e
 Gas price: 60.0 gwei   Gas limit: 30000000   Nonce: 8
 MDNToken.transfer confirmed   Block: 431   Gas used: 51671 (0.17%)
 
+
+## Referred Videos
+
+https://www.youtube.com/watch?v=Yw0jkDPLqJ8&t=768s
