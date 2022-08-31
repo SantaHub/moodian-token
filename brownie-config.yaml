@@ -15,3 +15,16 @@ networks:
     gas_limit: max
     gas_buffer: 1
     gas_price: 0
+    cmd_settings:
+      port: 7545
+#
+#  gui:
+#    gas_limit: max
+#    gas_buffer: 1
+#    gas_price: 0
+#    cmd_settings:
+#      port: 7545
+##
+##  brownie networks add [environment] [id] host=[host] [KEY=VALUE, ...]
+##  brownie networks add Development ganachegui host='HTTP://127.0.0.1:7545'
+#host: the address of the node to connect to, e.g. https://mainnet.infura.io/v3/1234567890abcdef
